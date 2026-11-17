@@ -1,0 +1,27 @@
+{
+  "name": "FlexVara Co \u2014 Joint Wellness Capsules",
+  "short_name": "FlexVara",
+  "description": "FlexVara is a 7-ingredient joint capsule led by 500 mg eggshell membrane. See every FlexVara dose, the real cost per day and the 90-day refund terms.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fdfcf9",
+  "theme_color": "#15332e",
+  "categories": [
+    "health",
+    "shopping",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
